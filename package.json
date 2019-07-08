@@ -9,6 +9,9 @@
     "debug": "ndb node server"
   },
   "keywords": [],
+  "engines": {
+      "node": "10.16.0"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
